@@ -1,3 +1,18 @@
+
+#Contact Management
+
+Add a Contact: Use the form on the Contact Page to add a new contact.
+View Contacts: The list of contacts will be displayed below the form.
+Edit/Delete Contacts: Each contact will have options to edit or delete.
+Charts and Maps
+
+View COVID-19 Stats: Navigate to the Charts and Maps page via the sidebar to view the line graph of COVID-19 cases and the world map with country-specific data.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
