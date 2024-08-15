@@ -1,4 +1,8 @@
 
+
+# Getting Started with Create React App
+
+
 #Contact Management
 
 Add a Contact: Use the form on the Contact Page to add a new contact.
@@ -9,11 +13,6 @@ Charts and Maps
 View COVID-19 Stats: Navigate to the Charts and Maps page via the sidebar to view the line graph of COVID-19 cases and the world map with country-specific data.
 
 
-
-
-
-
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
